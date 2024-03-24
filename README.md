@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n7co9" alt="n7co9" /></a> </p>
 
-- 🔭 I’m currently working on **a Screen-reader based BOT for Online-MMORPG Wizard101**
+- 🔭 I’m currently working on **a MOM Microservice for handling Updates of crucial Information**
 
-- 👯 I’m looking to collaborate on **Symfony based Webshops**
+- 👯 I’m looking to collaborate on **Symfony Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/N7co9/](https://github.com/N7co9/)
 
