@@ -1,4 +1,4 @@
-# 💫 Hi, I'm N7co9!:
+# 💫 Hi, I'm N7co9!
 
 🔭 I’m currently studying and building sophisticated Symfony services and webapplications.<br>🌱 I’m looking forward to helping small and more established companies building their online presence effectively.<br>⚡ Reach out to me via direct Messages or take a look at my Instagram @N7co9.<br>🗽 Stay tuned to check out my own website and services in the near feature!
 
